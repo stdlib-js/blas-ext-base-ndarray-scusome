@@ -89,9 +89,13 @@
     "extended",
     "cumulative",
     "some",
+    "scusome",
     "truthy",
     "test",
-    "ndarray"
+    "ndarray",
+    "float32",
+    "single-precision",
+    "float32array"
   ],
   "funding": {
     "type": "opencollective",
